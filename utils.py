@@ -1,3 +1,4 @@
+#这个是数据预处理部分
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from config import *
